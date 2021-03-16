@@ -1,0 +1,53 @@
+body {
+background-color: black;
+display: block;
+margin: auto;
+text-align: center;
+}
+
+header {
+    font-family: verdana;
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+   
+}
+
+main {
+    display: block;
+    align-items: center;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+
+.title {
+    font-family: Verdana;
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+}
+.logo {
+    text-align: right;
+    color: gray;
+}
